@@ -3,7 +3,7 @@ flask
 pandas
 numpy
 requests
-flashtext.keyword
-nltk.corpus
+flashtext
+nltk
 pickle
 json
