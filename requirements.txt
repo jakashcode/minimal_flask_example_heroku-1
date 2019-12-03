@@ -1,2 +1,9 @@
 gunicorn
 flask
+pandas
+numpy
+requests
+flashtext.keyword
+nltk.corpus
+pickle
+json
